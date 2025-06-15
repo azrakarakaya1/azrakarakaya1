@@ -1,20 +1,21 @@
 <h1 align="center">Hi, I'm Azra 🫧</h1>
 
-<div align="center">
+<p align="center"><strong>Computer Engineer</strong></p>
 
 <p align="center">
-  Computer Engineer
+  Focused on Embedded Systems, Web Development, and Algorithm Analysis<br />
+  Passionate about clean code and beautiful design
 </p>
-
-Focused on Embedded Systems, Web Development, and Algorithm Analysis<br />
-Passionate about clean code and beautiful design<br>
 
 <p align="center">
   <img src="./src.gif" alt="Animated GIF" width="300"/>
 </p>
 
-  ### Women in Stem ✨
+<h3 align="center">👩‍💻 <strong>Women in STEM ✨</strong></h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Women%20in%20STEM-Supporting-purple?style=for-the-badge&logo=academia&logoColor=white" />
+</p>
 
 ---
 
@@ -42,10 +43,10 @@ Passionate about clean code and beautiful design<br>
 
 ---
 
-### Reach Me
 
-<a href="azrakarakaya09@gmail.com">Email</a><br>
-<a href="https://www.linkedin.com/in/azra-karakaya-595766231/">LinkedIn</a>
+<h3>Reach Me</h3>
+<p><a href="azrakarakaya09@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/azra-karakaya-595766231/">LinkedIn</a></p>
+
 
 
 
