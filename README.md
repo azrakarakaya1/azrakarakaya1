@@ -29,6 +29,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ---
 
 ### GitHub Stats
@@ -42,11 +43,4 @@
 </div>
 
 ---
-
-
-<h3>Reach Me</h3>
-<p><a href="azrakarakaya09@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/azra-karakaya-595766231/">LinkedIn</a></p>
-
-
-
 
