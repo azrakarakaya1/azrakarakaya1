@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Women%20in%20STEM-Supporting-purple?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
+</p> 
 
 ---
 
