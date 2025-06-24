@@ -34,8 +34,6 @@
 
 ### GitHub Stats
 
-### GitHub Stats
-
 <div align="center">
   <!-- GitHub Stats -->
   <img 
@@ -47,9 +45,8 @@
 <div align="center">
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrakarakaya1&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF" 
-    alt="Azra's Most Used Languages" 
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrakarakaya1&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF" 
+/>
 </div>
 
 ---
