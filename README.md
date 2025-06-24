@@ -34,12 +34,22 @@
 
 ### GitHub Stats
 
+### GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrakarakaya1&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=azrakarakaya1&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=FF6B9D&text_color=FFFFFF" 
+    alt="Azra's GitHub Stats" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrakarakaya1&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrakarakaya1&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF" 
+    alt="Azra's Most Used Languages" 
+  />
 </div>
 
 ---
