@@ -3,8 +3,7 @@
 <p align="center"><strong>Computer Engineer</strong></p>
 
 <p align="center">
-  Focused on Embedded Systems, Web Development, and Algorithm Analysis<br />
-  Passionate about clean code and beautiful design
+  -
 </p>
 
 <p align="center">
