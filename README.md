@@ -3,10 +3,6 @@
 <p align="center"><strong>Computer Engineer</strong> – Specializing in Networking, Linux, and System Administration</p>
 
 <p align="center">
-  -
-</p>
-
-<p align="center">
   <img src="./src.gif" alt="Animated GIF" width="300"/>
 </p>
 
