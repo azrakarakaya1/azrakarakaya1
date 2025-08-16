@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Azra 🫧</h1>
 
-<p align="center"><strong>Computer Engineer</strong> – Specializing in Networking, Linux, and System Administration</p>
+<p align="center"><strong>Computer Engineer</strong><br>Specializing in Networking, Linux, and System Administration</p>
 
 <p align="center">
   <img src="./src.gif" alt="Animated GIF" width="300"/>
