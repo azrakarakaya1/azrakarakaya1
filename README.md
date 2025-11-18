@@ -30,7 +30,6 @@
 ### GitHub Stats
 
 <img 
-    src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=dark&hide_border=true&ring=d73a49&fire=d73a49&sideLabels=d73a49"
+    src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
 />
-
