@@ -6,11 +6,7 @@
 </p>
 
 
-<p align="center">
-  <img src="./src.gif" alt="Animated GIF" width="300"/>
-</p>
-
-<h3 align="center">👩‍💻 Women in STEM & DevOps ✨</h3>
+<h4 align="center">👩‍💻 Women in STEM & DevOps ✨</h4>
 
 ---
 
@@ -24,7 +20,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ---
 
-### Learning
+#### Learning
 
 * Deep diving into **Kubernetes** concepts like Pods, Deployments, and Services.
 * Exploring basic networking and EC2 setup on **AWS**.
@@ -33,20 +29,7 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=azrakarakaya1&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=FF6B9D&text_color=FFFFFF" 
-    alt="Azra's GitHub Stats" 
-  />
-
 <img 
     src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=dracula&hide_border=true"
     alt="GitHub Streak"
 />
-</div>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrakarakaya1&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF" 
-  />
-</div>
