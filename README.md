@@ -39,10 +39,10 @@
     alt="Azra's GitHub Stats" 
   />
 
-  <img 
-    src="https://github-readme-streak-stats.demolab.com/?user=azrakarakaya1&theme=dracula&hide_border=true&ring=E91E63&fire=FF6B9D&currstreak=FFFFFF&sideNums=FFFFFF&sideLabels=FF6B9D&dates=FFFFFF"
+<img 
+    src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=dracula&hide_border=true"
     alt="GitHub Streak"
-  />
+/>
 </div>
 
 <div align="center">
