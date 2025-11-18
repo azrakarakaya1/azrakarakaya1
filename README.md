@@ -28,8 +28,9 @@
 ---
 
 ### GitHub Stats
-
-<img 
+<div align="center">
+  <img 
     src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
-/>
+/>  
+</div>
