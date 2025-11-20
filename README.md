@@ -30,22 +30,11 @@
 ### GitHub Stats
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=azrakarakaya1
-    &theme=github-dark
-    &hide_border=true
-    &border_radius=0
-    &stroke=0d1117
-    &ring=ff2d55
-    &fire=ff2d55
-    &currStreakLabel=1e90ff
-    &sideLabels=1e90ff
-    &currStreakNum=1e90ff
-    &dates=8b949e
-    &hide_longest_streak=false
-    &hide_total_contributions=false
-    &hide_current_streak=false
-    &background=0d1117"
-    alt="GitHub Streak"
-    style="max-width:100%;"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=github-dark&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakNum=3b82f6&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=8b949e"
+    style="max-width:100%;"
+    alt="GitHub Streak"/>
 </div>
+
+
+
