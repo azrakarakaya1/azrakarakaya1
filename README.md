@@ -31,7 +31,21 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=github-dark&hide_border=true&ring=ff2d55&fire=1e90ff&sideLabels=ff2d55"
+    src="https://streak-stats.demolab.com?user=azrakarakaya1
+    &theme=github-dark
+    &hide_border=true
+    &border_radius=0
+    &stroke=0d1117
+    &ring=ff2d55
+    &fire=ff2d55
+    &currStreakLabel=1e90ff
+    &sideLabels=1e90ff
+    &currStreakNum=1e90ff
+    &dates=8b949e
+    &hide_longest_streak=false
+    &hide_total_contributions=false
+    &hide_current_streak=false
+    &background=0d1117"
     alt="GitHub Streak"
     style="max-width:100%;"/>
 </div>
