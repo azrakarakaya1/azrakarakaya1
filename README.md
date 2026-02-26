@@ -2,7 +2,7 @@
 
 <p align="center">
     <strong>Aspiring DevOps Engineer</strong> | Computer Engineer<br>
-    Specializing in <strong>Continuous Integration/Continuous Deployment (CI/CD)</strong>, <strong>Infrastructure as Code (IaC)</strong>, and <strong>Cloud Computing</strong>.
+    Specializing in <strong>Cloud Computing</strong> and <strong>Deep Learning</strong>.
 </p>
 
 
@@ -23,7 +23,7 @@
 #### Learning
 
 * Deep diving into **Kubernetes** concepts like Pods, Deployments, and Services.
-* Exploring basic networking and EC2 setup on **AWS**.
+* Studying Deep Learning fundamentals and neural network architectures.
 
 ---
 
