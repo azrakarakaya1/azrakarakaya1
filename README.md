@@ -30,12 +30,11 @@
 #### Now Jamming
 
 <div align="center">
-  <svg width="320" height="80" xmlns="http://www.w3.org/2000/svg">
-    <rect width="320" height="80" rx="12" fill="#1DB954"/>
-    <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff">
-      <img src="https://spotify-fk74d1vaz-azras-projects-e4012429.vercel.app" alt="Spotify Now Playing"/>
-    </text>
-  </svg>
+  <img 
+    src="https://spotify-fk74d1vaz-azras-projects-e4012429.vercel.app/api/now-playing" 
+    alt="Spotify Now Playing" 
+    style="border-radius:12px; border:2px solid #1DB954; max-width:90%; box-shadow: 0 0 10px #1DB954;"
+  />
 </div>
 
 
