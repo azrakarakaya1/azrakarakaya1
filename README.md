@@ -27,15 +27,15 @@
 
   ---
 
-  ### GitHub Stats
-
-  <div align="center">
-    <img 
+  ### GitHub Stats                                                                                                                                             
+                                                                                                                                                               
+  <div align="center">                                                                                                                                         
+    <img                                                                                                                                                       
       src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=github-dark&hide_border=true&background=0d1117&ring=1DB954&fire=1DB954&currStreakNum=1DB9
-  54&currStreakLabel=ffffff&sideLabels=b3b3b3&dates=535353"
-      style="max-width:100%;"
-      alt="GitHub Streak"/>
-  </div>
+  54&currStreakLabel=ffffff&sideLabels=b3b3b3&dates=535353"                                                                                                    
+      alt="GitHub Streak"                                                                                                                                      
+    />                                                                                                                                                         
+  </div> 
 
   ---
 
