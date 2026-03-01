@@ -1,55 +1,48 @@
-  <h1 align="center">Hi, I'm Azra 🫧</h1>                                                                                                                      
-                                                                                                                                                               
-  <p align="center">                                                                                                                                           
-      <strong>Aspiring DevOps Engineer</strong> | Computer Engineer<br>
-      Specializing in <strong>Cloud Computing</strong> and <strong>Deep Learning</strong>.
-  </p>
+<h1 align="center">Hi, I'm Azra 🫧</h1>
 
-  <h4 align="center">👩‍💻 Women in STEM & DevOps ✨</h4>
+<p align="center">
+    <strong>Aspiring DevOps Engineer</strong> | Computer Engineer<br>
+    Specializing in <strong>Cloud Computing</strong> and <strong>Deep Learning</strong>.
+</p>
 
-  ---
+<h4 align="center">👩‍💻 Women in STEM & DevOps ✨</h4>
 
-  ### Tech Stack
+---
 
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### Tech Stack
 
-  ---
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-  #### Learning
+---
 
-  * Deep diving into **Kubernetes** concepts like Pods, Deployments, and Services.
-  * Studying Deep Learning fundamentals and neural network architectures.
+#### Learning
 
-  ---
+* Deep diving into **Kubernetes** concepts like Pods, Deployments, and Services.
+* Studying Deep Learning fundamentals and neural network architectures.
 
-  ### GitHub Stats                                                                                                                                             
-                                                                                                                                                               
-  <div align="center">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=azrakarakaya1&theme=github-dark&hide_border=true&background=0d1117&ring=1DB954&fire=1DB954&cu
-  rrStreakNum=1DB954&currStreakLabel=ffffff&sideLabels=b3b3b3&dates=535353"
-      alt="GitHub Streak"
-    />
-  </div>
+---
 
-  ---
+#### Now Jamming
 
-  #### Now Jamming
+<div align="center">
+  <img 
+    src="https://spotify-api-ashen-iota.vercel.app/api/now-playing"
+    alt="Spotify Now Playing"
+  />
+</div>
 
-  <div align="center">
-    <img 
-      src="https://spotify-api-ashen-iota.vercel.app/api/now-playing"
-      alt="Spotify Now Playing"
-    />
-  </div><br>
+---
 
-  <p align="center">                                                                                                                                           
-    <a href="https://open.spotify.com/user/21a4nakcdc5xqi3uympunoweq">                                                                                         
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>                                                
-    </a>          
-  </p>
+### GitHub Stats
+
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=azrakarakaya1&theme=github-dark&hide_border=true&background=0d1117&ring=EE0000&fire=FF4500&currStreakNum=EE0000&currStreakLabel=FFFFFF&sideLabels=B3B3B3&dates=535353" 
+    alt="GitHub Streak"
+  />
+</div>
