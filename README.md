@@ -29,13 +29,13 @@
 
   ### GitHub Stats                                                                                                                                             
                                                                                                                                                                
-  <div align="center">                                                                                                                                         
-    <img                                                                                                                                                       
-      src="https://streak-stats.demolab.com/?user=azrakarakaya1&theme=github-dark&hide_border=true&background=0d1117&ring=1DB954&fire=1DB954&currStreakNum=1DB9
-  54&currStreakLabel=ffffff&sideLabels=b3b3b3&dates=535353"                                                                                                    
-      alt="GitHub Streak"                                                                                                                                      
-    />                                                                                                                                                         
-  </div> 
+  <div align="center">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=azrakarakaya1&theme=github-dark&hide_border=true&background=0d1117&ring=1DB954&fire=1DB954&cu
+  rrStreakNum=1DB954&currStreakLabel=ffffff&sideLabels=b3b3b3&dates=535353"
+      alt="GitHub Streak"
+    />
+  </div>
 
   ---
 
