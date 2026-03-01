@@ -31,7 +31,7 @@
 
 <div align="center">
   <img 
-    src="https://spotify-now-playing-orpin-five.vercel.app/api/now-playing" 
+    src="spotify-api-ashen-iota.vercel.app"
     alt="Spotify Now Playing" 
     style="border-radius:12px; border:2px solid #1DB954; max-width:90%; box-shadow: 0 0 10px #1DB954;"
   />
