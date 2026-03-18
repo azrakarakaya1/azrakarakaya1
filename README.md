@@ -46,3 +46,5 @@
     alt="GitHub Streak"
   />
 </div>
+
+[![Visitors](https://komarev.com/ghpvc/?username=azrakarakaya1&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/azrakarakaya1)
