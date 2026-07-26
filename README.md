@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Azra 🫧</h1>
 
 <p align="center">
-    <strong>Aspiring DevOps Engineer</strong> | Computer Engineer<br>
+    <strong>Jr. DevOps Engineer</strong> | Computer Engineer<br>
     Specializing in <strong>Cloud Computing</strong> and <strong>Deep Learning</strong>.
 </p>
 
